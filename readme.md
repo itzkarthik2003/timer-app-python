@@ -1,17 +1,20 @@
-⏳ Simple Countdown Timer
+# ⏳ Simple Countdown Timer  
 
-A lightweight countdown timer built with Python + Tkinter.
-Set your time, hit start, and get notified when it’s up!
+A lightweight countdown timer built with **Python + Tkinter**.  
 
-🚀 Run It
+---
+
+## 🚀 Run  
+```bash
 python countdown_timer.py
-
 ✨ Features
+🖥️ Clean GUI
 
-Clean GUI
+⌛ Start / Pause / Reset
 
-Start / Pause / Reset
-
-Custom countdown duration
+🔔 Custom countdown duration
 
 Perfect for Pomodoro sessions, workouts, or coffee breaks ☕
+
+pgsql
+Copy code
