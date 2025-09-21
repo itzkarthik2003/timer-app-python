@@ -16,5 +16,4 @@ python countdown_timer.py
 
 Perfect for Pomodoro sessions, workouts, or coffee breaks ☕
 
-pgsql
-Copy code
+
